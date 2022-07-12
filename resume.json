@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Sankalp Pareek",
+        "label": "Student",
+        "picture": "https://github.com/sankalpie/iiit-web/blob/main/IMG_20211213_094209_691.jpg?raw=true",
+        "email": "2019kucp1026@iiitkota.ac.in",
+        "phone": "+919660806689",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I love Web Development and I have a keen interest in Competitive Programming.",
+        "location": {
+            "address": "Nirman Nagar,Jaipur",
+            "postalCode": "302019",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "sankalpie",
+                "url": "https://github.com/sankalpie"
+            },
+            {
+                "network": "linkedin",
+                "username": "Sankalp Pareek",
+                "url": "https://www.linkedin.com/in/sankalp-pareek-92a473238/"
+            },
+            {
+                "network": "Instagram",
+                "username": "sankalpie",
+                "url": "https://instagram.com/sankalpie"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "startDate": "January, 2022",
+            "endDate": "",
+            "gpa": "9.6",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Microsoft Technical Associate in HTML & CSS",
+            "awarder": "Microsoft",
+            "date": "July 2022"
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Front End Development",
+            "level": "Intermidiate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C",
+                "C++",
+                "Git",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Video Editing",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords": [
+                "Calisthenics",
+                "Running"
+            ]
+        }
+    ]
+}
